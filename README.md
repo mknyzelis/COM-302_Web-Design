@@ -88,6 +88,9 @@ Free fonts, easy installation.
 <a href="https://typespiration.com" target="_blank"><h5>Typespiration</h5></a>
 Inspirational font combinations.
 
+<a href="https://www.youtube.com/watch?v=C_RzDqgGcao" target="_blank"><h5>The power of tyopgraphy</h5></a>
+TED talk.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Colors -->
