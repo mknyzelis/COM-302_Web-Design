@@ -95,7 +95,7 @@ TED talk.
 
 <!-- Colors -->
 ## Colors
-<a href="https://coolors.co" target="_blank"><h5>Color palettes generator</h5></a>
+<h5><a href="https://coolors.co" target="_blank">Color palettes generator</a></h5>
 Free fonts, easy installation.
 
 <a href="https://color.adobe.com/create/color-wheel" target="_blank"><h5>Color Wheel</h5></a>
