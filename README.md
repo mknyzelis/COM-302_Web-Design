@@ -49,16 +49,16 @@ If you find broken links, please let me know ✌️
 
 <!-- Useful tools -->
 ## Useful tools
-<a href="https://notepad-plus-plus.org/downloads/" target="_blank"><h5>Notepad++</h5></a>
+<h5><a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notepad++</a></h5>
 Code editor for Microsoft Windows.
 
-<a href="https://atom.io" target="_blank"><h5>Atom</h5></a>
+<h5><a href="https://atom.io" target="_blank">Atom</a></h5>
 Code editor for macOS.
 
-<a href="https://validator.w3.org" target="_blank"><h5>Validator</h5></a>
+<h5><a href="https://validator.w3.org" target="_blank">Validator</a></h5>
 To check validity of HTML files.
 
-<a href="https://archive.org/web/web.php" target="_blank"><h5>Wayback Machine</h5></a>
+<h5><a href="https://archive.org/web/web.php" target="_blank">Wayback Machine</a></h5>
 Exploring websites saved over time.
 
 
@@ -82,13 +82,13 @@ Exploring websites saved over time.
 
 <!-- Typography -->
 ## Typography
-<a href="https://fonts.google.com" target="_blank"><h5>Google Fonts</h5></a>
+<h5><a href="https://fonts.google.com" target="_blank">Google Fonts</a></h5>
 Free fonts, easy installation.
 
-<a href="https://typespiration.com" target="_blank"><h5>Typespiration</h5></a>
+<h5><a href="https://typespiration.com" target="_blank">Typespiration</a></h5>
 Inspirational font combinations.
 
-<a href="https://www.youtube.com/watch?v=C_RzDqgGcao" target="_blank"><h5>The power of tyopgraphy</h5></a>
+<h5><a href="https://www.youtube.com/watch?v=C_RzDqgGcao" target="_blank">The power of tyopgraphy</a></h5>
 TED talk.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -98,7 +98,7 @@ TED talk.
 <h5><a href="https://coolors.co" target="_blank">Color palettes generator</a></h5>
 Free fonts, easy installation.
 
-<a href="https://color.adobe.com/create/color-wheel" target="_blank"><h5>Color Wheel</h5></a>
+<h5><a href="https://color.adobe.com/create/color-wheel" target="_blank">Color Wheel</a></h5>
 Adobe color wheel to apply harmony rules.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -106,10 +106,10 @@ Adobe color wheel to apply harmony rules.
 
 <!-- Stock photos -->
 ## Stock photos
-<a href="https://unsplash.com" target="_blank"><h5>Unsplash</h5></a>
+<h5><a href="https://unsplash.com" target="_blank">Unsplash</a></h5>
 Source of freely-usable photos.
 
-<a href="https://www.pexels.com" target="_blank"><h5>Pexels</h5></a>
+<h5><a href="https://www.pexels.com" target="_blank">Pexels</a></h5>
 Free high quality stock photos.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,10 +117,10 @@ Free high quality stock photos.
 
 <!-- Icons -->
 ## Icons
-<a href="https://fontawesome.com/icons" target="_blank"><h5>Font Awesome</h5></a>
+<h5><a href="https://fontawesome.com/icons" target="_blank">Font Awesome</a></h5>
 Easy to use icons for your personal website projects.
 
-<a href="https://fonts.google.com/icons" target="_blank"><h5>Material Icons by Google</h5></a>
+<h5><a href="https://fonts.google.com/icons" target="_blank">Material Icons by Google</a></h5>
 Open source icons.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -129,16 +129,16 @@ Open source icons.
 <!-- Inspiration -->
 ## Inspiration
 
-<a href="https://www.awwwards.com" target="_blank"><h5>Awwwards</h5></a>
+<h5><a href="https://www.awwwards.com" target="_blank">Awwwards</a></h5>
 Best web design trends.
 
-<a href="https://www.behance.net" target="_blank"><h5>Behance</h5></a>
+<h5><a href="https://www.behance.net" target="_blank">Behance</a></h5>
 Place to follow other designers.
 
-<a href="https://dribbble.com" target="_blank"><h5>Dribbble</h5></a>
+<h5><a href="https://dribbble.com" target="_blank">Dribbble</a></h5>
 Place to discover portfolios of other designers.
 
-<a href="https://www.lapa.ninja" target="_blank"><h5>Lapa Ninja</h5></a>
+<h5><a href="https://www.lapa.ninja" target="_blank">Lapa Ninja</a></h5>
 Landing page inspiration.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
