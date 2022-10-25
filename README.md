@@ -42,6 +42,8 @@ If you find broken links, please let me know ✌️
     <li><a href="https://zapier.com/blog/inspect-element-tutorial/" target="_blank">Inspect Element Tutorial</a></li>
     <li><a href="https://www.quora.com/How-much-can-a-web-developer-earn-from-freelancing-websites/answer/David-Hamrick-1?srid=uKQP" target="_blank">How much can a web developer earn from freelancing websites?</a></li>
     <li><a href="https://w3techs.com/technologies/overview/content_management" target="_blank">Usage statistics of content management systems</a></li>
+    <li><a href="https://wordpress.com/dailypost/2013/04/11/seo-and-your-blog/" target="_blank">SEO and Your Blog</a></li>
+    <li><a href="https://wordpress.com/dailypost/2016/03/10/six-seo-factors-you-should-know/" target="_blank">How to Publish Posts that Search Engines Will Love</a></li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,7 +126,6 @@ Easy to use icons for your personal website projects.
 Open source icons.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- Inspiration -->
 ## Inspiration
